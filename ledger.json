@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"total_lent": 530,
+		"total_owing": 231,
+		"transactions": [
+			{
+				"amount": 22131,
+				"id": "1",
+				"lent": true,
+				"transaction_name": "Dahej",
+				"user_name": "Sebastian"
+			},
+			{
+				"amount": 12211,
+				"id": "2",
+				"lent": false,
+				"transaction_name": "Ghus",
+				"user_name": "Steve"
+			},
+			{
+				"amount": 123123,
+				"id": "3",
+				"lent": false,
+				"transaction_name": "Firauti",
+				"user_name": "Ann"
+			}
+		]
+	}
+]
+}
