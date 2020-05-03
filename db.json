@@ -36,6 +36,44 @@
 				"time": "26-10-2019 12:55"
 			}
 		]
+	},
+		 {
+		"total_lent": 530,
+		"total_owing": 231,
+		"transactions": [
+			{
+				"amount": 22131,
+				"id": "1",
+				"lent": true,
+				"transaction_name": "Dahej",
+				"user_name": "Harsh",
+				"time": "26-10-2019 12:55"
+			},
+			{
+				"amount": 12211,
+				"id": "2",
+				"lent": false,
+				"transaction_name": "Ghus",
+				"user_name": "Steve",
+				"time": "26-10-2019 12:55"
+			},
+			{
+				"amount": 123123,
+				"id": "3",
+				"lent": false,
+				"transaction_name": "Firauti",
+				"user_name": "Tarway",
+				"time": "26-10-2019 12:55"
+			},
+			{
+				"amount": 123123,
+				"id": "3",
+				"lent": false,
+				"transaction_name": "Firauti",
+				"user_name": "Madhav",
+				"time": "26-10-2019 12:55"
+			}
+		]
 	}
 ]
 }
