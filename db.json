@@ -1,5 +1,5 @@
 {
-	"data": {
+	"data": [{
 		"total_lent": 530,
 		"total_owing": 231,
 		"transactions": [
@@ -37,4 +37,5 @@
 			}
 		]
 	}
+]
 }
